@@ -1,5 +1,5 @@
 # React SpinUp.
-This is an example React project.  The instructions below will walk you through adding React to an existing PWP project. 
+This is an example React project.  The instructions below will walk you through adding React to an existing project. 
 ## Prerequisites.
 * `node`, `npm`, and `create-react-app` are installed.
 ## Adding React To an Existing Project.
