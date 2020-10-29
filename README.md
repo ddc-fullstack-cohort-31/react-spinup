@@ -1,6 +1,6 @@
 # React SpinUp.
 ## Prerequisites.
-* `node`, `npm`, and `create-react-app` are installed.
+* `node` and `npm` are installed.
 ## Adding React To an Existing Project.
 1. `cd` into the project and run `npx create-react-app frontend`.
 2. Replace the `./frontend/package.json` created in step1 with the `./frontend/package.json` in this project.
