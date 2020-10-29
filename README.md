@@ -13,7 +13,6 @@ import React from 'react'
 import 'bootstrap/dist/css/bootstrap.css';
 
 export const App = () => ( <h1 className="text-info">Is this thing on?</h1> );
-ReactDOM.render(<frontend/>, document.querySelector('#root'));
 ```
 7. Create a new file called `/frontend/src/index.js` with the content bellow
 ```jsx
